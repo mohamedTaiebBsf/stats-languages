@@ -1,4 +1,4 @@
-# Stats Language
+# Language statistics
 
 ### Description
 
